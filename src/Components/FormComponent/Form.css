@@ -1,0 +1,21 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+.input {
+  border: 1px solid gray;
+  width: 600px;
+  padding: 10px;
+  border-radius: 10px;
+  outline: none;
+}
+.button {
+  border: 2px solid pink;
+  background-color: pink;
+  padding: 5px 10px;
+  border-radius: 5px;
+}

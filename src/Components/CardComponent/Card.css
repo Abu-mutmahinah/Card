@@ -1,0 +1,75 @@
+/* THE CARD CONTAINER STYLE */
+.Card-container {
+  display: flex;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px rgba(95, 92, 92, 0.514);
+  width: 820px;
+  overflow: hidden;
+  margin-left: 50px;
+}
+
+/* CARD DETAILS STYLE */
+.card-details {
+  width: 500px;
+  padding: 15px;
+}
+
+/* THE HEADER DIV THAT CONTAIN BOTH THE CARDTYPE AND DATE  */
+.header {
+  display: flex;
+  justify-content: space-between;
+  color: gray;
+  font-weight: 600;
+}
+
+.icon {
+  position: relative;
+  overflow: hidden;
+}
+.buttons {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 50px;
+  height: 200px;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.trash:hover {
+  transform: scale(1.2);
+  transition: 0.4s ease-out all;
+}
+/* TITTLE STLE  */
+.title {
+  margin-top: 15px;
+  font-size: 30px;
+  font-weight: 600;
+  display: flex;
+  line-height: 36px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.body {
+  margin-top: 15px;
+}
+/* FOOTER DIV THAT CONTAIN BOTH THE AVATAR AND THE READMORE */
+.footer {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 5px;
+  color: #007ae9;
+  font-weight: 600;
+}
+
+/* AVATAR STYLE */
+.avatar {
+  border-radius: 50%;
+  height: 35px;
+}
+
+.img {
+  position: relative;
+}

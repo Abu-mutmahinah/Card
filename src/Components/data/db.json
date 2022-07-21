@@ -1,0 +1,31 @@
+
+{
+    "cards":[
+        {
+            "name": "PRODUCTIVITY",
+            "date": "3 days ago",
+            "title": "7 Skills of Highly Effective Programmers",
+            "img": "Images/laptop.png",
+            "body": "Our team was inspired by the seven skills of highly effective programmers created by the TechLead. We wanted to provide our own take on the topic. Here are our seven skills of effective programmers..",
+            "id": 1
+          },
+          {
+            "name": "MEDIA",
+            "date": "17 days ago",
+            "title": "SMM starter pack, part 2: content promotion",
+            "img": "Images/boy.png",
+            "className": "mt-10",
+            "body": "This is the second part of the SMM starter pack series of articles. If you made it this far, you must be willing to learn about promoting business through social media. ",
+            "id": 2
+          },
+          {
+            "name": "BUSINESS",
+            "date": "1 month ago",
+            "img": "Images/phone.png",
+            "className": "mt-5",
+            "title": "11 Things I Wish I Knew When I Started My Business",
+            "body": "Here are 11 things I wish I knew when I started my business. I hope they will save you some time and some anguish because (experience is a good teacher here) the sodium from your tears acts as a corrosive melting agent...",
+            "id": 3
+          }
+    ]
+}
